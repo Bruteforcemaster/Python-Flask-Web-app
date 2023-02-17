@@ -1,0 +1,25 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/bruteforcemaster",
+    "prod_uri": "mysql://root:@localhost/bruteforcemaster",
+    "fb_url" : "https://facebook.com/bruteforcemaster",
+    "tw_url" : "https://twitter.com/bruteforcemaster",
+    "gh_url" : "https://github.com/bruteforcemaster",
+    "blog_name" : "BruteForceMaster",
+    "tag_line" : "A Blog by BruteForceMaster",
+    "gamil-user" : "sbsbs2002@gmail.com",
+    "gamil-password" : "wtvxvlxbivnlodto",
+    "about_text" : "Hi i am SOUMYA",
+    "no_of_posts" : 3,
+    "login_image" : "login.svg",
+    "admin_user" : "Soumya",
+    "admin_password" : "1234567",
+    "upload_location" : "G:\\Python web\\Website\\static"
+  }
+
+
+
+
+}
